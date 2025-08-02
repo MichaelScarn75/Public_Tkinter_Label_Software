@@ -3,6 +3,7 @@ This is a temporary label software solution built with Tkinter, a python GUI lib
 
 The exe is built by auto-py-to-exe
 
+Sample Sql Data is provided in Sample_Data, once imported into server, modify the code where server connection string is referenced
 
 With python-barcode module:
 when importing the class ImageWriter from barcode.writer
