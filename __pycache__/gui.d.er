@@ -1,0 +1,274 @@
+##[pylyzer] failed c:\testing\tkinter_label_software\gui.py 1754139690 111724
+
+.DUMMY: Never
+.___v_desugar_1: Never
+.Canvas: Never
+.Frame: Never
+.BOTH: Never
+.___v_desugar_2: Never
+.messagebox: Never
+.___v_desugar_3: Never
+.ttk: Never
+.___v_desugar_4: Never
+.filedialog: Never
+.os: Never
+
+.csv: Never
+
+.label_handling = pyimport "label_handling"
+
+.___v_desugar_5: Never
+.Image: Never
+.ImageTk: Never
+.time: Never
+
+.serial: Never
+
+.___v_desugar_6: Never
+.SerialException: Never
+.re: Never
+
+.threading: Never
+
+.___v_desugar_7: Never
+.DateEntry: Never
+.___v_desugar_8: Never
+.datetime: Never
+.win32print: Never
+
+.___v_desugar_9: Never
+.Decimal: Never
+.___v_desugar_10 = pyimport "barcode_generator"
+.barcode_generator = pyimport "barcode_generator"
+.barcode_generator: (RSP: Obj, barcode: Str) -> Str
+.Export_Csv: Never
+
+.mysql: Never
+
+.___v_desugar_11 = pyimport "product_listing_query"
+.product_listing_query = pyimport "product_listing_query"
+.sql_queries: Never
+.DUMMY = pyimport "encrypt_qr"
+.encrypt_qr = pyimport "encrypt_qr"
+.decrypt_qr = pyimport "decrypt_qr"
+.___v_desugar_12: Never
+.datetime: Never
+.GUI: ClassType
+.GUI.sub_cert_type: Never
+.GUI.packet_printer_name: Never
+.GUI.customer_window: Never
+.GUI.list_of_product_button: Never
+.GUI.My_Cert_checkbutton1: Never
+.GUI.Cert_empty_tick_picture: Never
+.GUI.My_Cert_checkbutton3_picture: Never
+.GUI.Cert_checkbutton4_picture: Never
+.GUI.my_cert_type: Never
+.GUI.print_button: Never
+.GUI.Serial_Port_Parity_name: Never
+.GUI.Vendor_window: Never
+.GUI.database: Never
+.GUI.Packet_Scale_window_button_status: Never
+.GUI.My_Cert_Num_Var4: Never
+.GUI.number_of_ledger_entries: Never
+.GUI.number2_picture: Never
+.GUI.qty_input: Never
+.GUI.My_Cert_Num_Var3: Never
+.GUI.product_country: Never
+.GUI.screen_height: Never
+.GUI.todays_date: Never
+.GUI.Cert_checkbutton6_picture: Never
+.GUI.W_OIC: Never
+.GUI.scale_printer_name: Never
+.GUI.down_arrow_picture1: Never
+.GUI.first_index: Never
+.GUI.My_Cert_Num_Var2: Never
+.GUI.unit_of_conversion2: Never
+.GUI.decrypt_one_line_button: Never
+.GUI.Printer_Settings_window: Never
+.GUI.My_Cert_Num_Var1: Never
+.GUI.Cert_checkbutton3: Never
+.GUI.malay_name: Never
+.GUI.qr_window: Never
+.GUI.frame_in_product_listing_window: Never
+.GUI.ser: Never
+.GUI.down_arrow_picture2: Never
+.GUI.stop_thread: Never
+.GUI.Next_button_product_listing_window: Never
+.GUI.number1_picture: Never
+.GUI.system_name: Never
+.GUI.manufacturer_code: Never
+.GUI.main_cert_type: Never
+.GUI.UOM2: Never
+.GUI.encoded_list: Never
+.GUI.Packet: Never
+.GUI.Cert_checkbutton3_picture: Never
+.GUI.CTN_label_printer_name: Never
+.GUI.list_of_customer_button: Never
+.GUI.packet_scale_window: Never
+.GUI.W_CON: Never
+.GUI.medium_label_printer_name: Never
+.GUI.customer_button_number: Never
+.GUI.My_Cert_checkbutton1_picture: Never
+.GUI.myorg_frame: Never
+.GUI.scales_ledger_listbox: Never
+.GUI.unit_of_conversion1: Never
+.GUI.My_Cert_checkbutton6_picture: Never
+.GUI.Vendor2_Button: Never
+.GUI.My_Cert_checkbutton5_picture: Never
+.GUI.main_cert_type_var1: Never
+.GUI.packet_printer_chooser: Never
+.GUI.barcode: Never
+.GUI.Serial_Port_Parity_chooser: Never
+.GUI.UOM1: Never
+.GUI.weigh_window: Never
+.GUI.My_Cert_checkbutton3: Never
+.GUI.main_cert_type_var2: Never
+.GUI.main_cert_type_var4: Never
+.GUI.weight_display: Never
+.GUI.nav_grammage: Never
+.GUI.Cert_checkbutton5_picture: Never
+.GUI.small_label_printer_chooser: Never
+.GUI.single_qr_entrybox: Never
+.GUI.Cert_checkbutton6: Never
+.GUI.temp_product_database_category: Never
+.GUI.main_cert_type_var5: Never
+.GUI.Next_Button_Customer_Window: Never
+.GUI.My_Cert_checkbutton2_picture: Never
+.GUI.Vendor3_Button: Never
+.GUI.output_qr_entrybox: Never
+.GUI.Search_Button: Never
+.GUI.printer_name: Never
+.GUI.scale_printer_chooser: Never
+.GUI.calendar_date_string: Never
+.GUI.screen_width: Never
+.GUI.My_Cert_Num_Var5: Never
+.GUI.scale_display: Never
+.GUI.P_OGG: Never
+.GUI.Cert_checkbutton5: Never
+.GUI.main_cert_type_var6: Never
+.GUI.Printing_window: Never
+.GUI.Cert_checkbutton1_picture: Never
+.GUI.Next_Button_Packet_Scale_window: Never
+.GUI.Next_Page: Never
+.GUI.Country_Chooser_Window: Never
+.GUI.Cert_checkbutton4: Never
+.GUI.Cert_checkbutton2: Never
+.GUI.My_Cert_checkbutton2: Never
+.GUI.My_Cert_checkbutton5: Never
+.GUI.medium_label_printer_chooser: Never
+.GUI.status_qr_label: Never
+.GUI.chinese_name: Never
+.GUI.list_of_range: Never
+.GUI.Scale: Never
+.GUI.Cert_checkbutton2_picture: Never
+.GUI.My_Cert_checkbutton4_picture: Never
+.GUI.Cert_tick_picture: Never
+.GUI.nav_name: Never
+.GUI.english_name: Never
+.GUI.Cert_checkbutton1: Never
+.GUI.date_picker: Never
+.GUI.product_listing_window: Never
+.GUI.Vendor1_Button: Never
+.GUI.RSP: Never
+.GUI.main_cert_frame: Never
+.GUI.My_Cert_checkbutton6: Never
+.GUI.product_database_category: Never
+.GUI.Serial_Port_Parity_number: Never
+.GUI.small_label_printer_name: Never
+.GUI.label_size: Never
+.GUI.num_qty_label: Never
+.GUI.Previous_Page: Never
+.GUI.P_OIC: Never
+.GUI.Scales_comm_port_entry: Never
+.GUI.country_display: Never
+.GUI.origin_RSP: Never
+.GUI.CTN_label_printer_chooser: Never
+.GUI.P_CON: Never
+.GUI.grammage_integer: Never
+.GUI.My_Cert_checkbutton4: Never
+.GUI.Upload_QR_csv_button: Never
+.GUI.W_OGG: Never
+.GUI.main_cert_type_var3: Never
+.GUI.My_Cert_Num_Var6: Never
+.GUI.__call__: () -> gui.GUI
+.GUI.Customer_window_init: (self: gui.GUI) -> NoneType
+.GUI.highlight_selection_customer_button: (self: gui.GUI, customer_button_number: Obj) -> NoneType
+.GUI.call_function: (self: gui.GUI, Packet_Scale_window_button_status: Obj) -> NoneType
+.GUI.Packet_Scale_window_init: (self: gui.GUI) -> NoneType
+.GUI.Next_Button_Packet_Scale_window_Function: (self: gui.GUI) -> NoneType
+.GUI.highlight_selection_packet_scale_button: (self: gui.GUI) -> NoneType
+.GUI.Hide_packet_scale_window: (self: gui.GUI) -> NoneType
+.GUI.qr_process_window: (self: gui.GUI) -> NoneType
+.GUI.process_qr_entrybox: (self: gui.GUI) -> NoneType
+.GUI.process_qr_csv: (self: gui.GUI) -> NoneType
+.GUI.Hide_qr_window: (self: gui.GUI) -> NoneType
+.GUI.Vendor_window_init: (self: gui.GUI) -> NoneType
+.GUI.Unhide_packet_scale_window: (self: gui.GUI) -> NoneType
+.GUI.User_Choose_Packet: (self: gui.GUI) -> NoneType
+.GUI.highlight_selection_vendor_button: (self: gui.GUI, vendor_button_status_var: Obj) -> NoneType
+.GUI.User_Choose_Scale: (self: gui.GUI) -> NoneType
+.GUI.Next_button_Vendor_window_Function: (self: gui.GUI, database: Obj) -> NoneType
+.GUI.product_listing_window_init: (self: gui.GUI, veg_database: Obj) -> NoneType
+.GUI.handle_enterkey: (self: gui.GUI, event: Obj, Filter_entrybox: global::Indexable(Obj, Never) or global::GenericDict or global::List(Never, _: Nat)) -> NoneType
+.GUI.Unhide_Vendor_window: (self: gui.GUI) -> NoneType
+.GUI.clear_frame_in_product_listing_window: (self: gui.GUI) -> NoneType
+.GUI.highlight_selected_product_button: (self: gui.GUI, number_of_button: Obj) -> NoneType
+.GUI.Product_Listing: (self: gui.GUI) -> NoneType
+.GUI.increment: (self: gui.GUI) -> NoneType
+.GUI.decrement: (self: gui.GUI) -> NoneType
+.GUI.calculate_sets: (self: gui.GUI) -> NoneType
+.GUI.Next_Button_product_listing_window_Function: (self: gui.GUI) -> NoneType
+.GUI.Product_Info: (self: gui.GUI) -> NoneType
+.GUI.Country_Chooser: (self: gui.GUI) -> NoneType
+.GUI.change_country_display_text: (self: gui.GUI, each: Obj) -> NoneType
+.GUI.Printer_Settings: (self: gui.GUI) -> NoneType
+.GUI.Printer_Settings_Configuration: (self: gui.GUI) -> NoneType
+.GUI.Unhide_Printing_window: (self: gui.GUI) -> NoneType
+.GUI.validate_date: (self: gui.GUI) -> NoneType
+.GUI.run_two_functions: (self: gui.GUI) -> NoneType
+.GUI.Print_button: (self: gui.GUI) -> NoneType
+.GUI.Unhide_product_listing_window: (self: gui.GUI) -> NoneType
+.GUI.update: (self: gui.GUI, temp_sub_cert_type: Obj) -> NoneType
+.GUI.my_cert_validation: (self: gui.GUI, temp_my_cert_type: Obj) -> NoneType
+.GUI.start_the_thread: (self: gui.GUI) -> NoneType
+.GUI.Weighted_Product_Window: (self: gui.GUI) -> NoneType
+.GUI.handle_click: |Type_287389 <: Ref(Obj), Type_285404 <: Structural({.x = ?287389; .y = ?287390}), Type_287390 <: Ref(Obj)|(self: gui.GUI, event: Type_285404) -> NoneType
+.GUI.delete_ledger_entries_function: (self: gui.GUI) -> NoneType
+.GUI.Open_Port: (self: gui.GUI) -> Never
+.GUI.update_stop_thread_status: (self: gui.GUI) -> NoneType
+
+.temp_window: Never
+
+.t1: Never
+
+.e: global::Exception
+
+
+.current_datetime: Never
+.current_datetime: Never
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

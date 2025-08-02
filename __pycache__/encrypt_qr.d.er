@@ -1,0 +1,7 @@
+##[pylyzer] failed c:\testing\tkinter_label_software\encrypt_qr.py 1754139505 1651
+
+.DUMMY = pyimport "decrypt_qr"
+.decrypt_qr = pyimport "decrypt_qr"
+.___v_desugar_1: Never
+.randint: Never
+.encrypt_qr: (qr_string: Never) -> Str

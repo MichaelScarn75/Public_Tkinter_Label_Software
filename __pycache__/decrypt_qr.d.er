@@ -1,0 +1,4 @@
+##[pylyzer] failed c:\testing\tkinter_label_software\decrypt_qr.py 1754139523 1822
+
+.decrypt_qr: |O <: Structural({.rstrip = (self: Obj, ?270473) -> ?O}), O: Type, Type_270473: Type|(qr_string: O) -> Str
+p = (self: Obj, Type_270473) -> Obj})|(qr_string: O) -> Str

@@ -1,0 +1,7 @@
+##[pylyzer] failed c:\testing\tkinter_label_software\export_csv.py 1754139536 2500
+
+.os: Never
+
+.mysql: Never
+
+.export_csv: () -> NoneType

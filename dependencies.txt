@@ -1,0 +1,12 @@
+tk
+tkcalendar
+Pillow
+python-barcode
+qrcode
+pywin32
+mysql-connector-python
+pyserial
+pywin32 - deprecated
+pywin32ctypes - deprecated
+CairoSVG - deprecated
+freetype - deprecated

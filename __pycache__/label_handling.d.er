@@ -1,0 +1,42 @@
+##[pylyzer] failed c:\testing\tkinter_label_software\label_handling.py 1754139410 38531
+
+.___v_desugar_1: Never
+.EAN13: Never
+.___v_desugar_2: Never
+.Code128: Never
+.___v_desugar_3: Never
+.ImageWriter: Never
+.win32print: Never
+
+.win32ui: Never
+.win32con: Never
+
+.___v_desugar_4: Never
+.Image: Never
+.ImageWin: Never
+.___v_desugar_5: Never
+.Image: Never
+.ImageTk: Never
+.ImageDraw: Never
+.ImageFont: Never
+.os: Never
+
+.qrcode: Never
+
+.___v_desugar_6: Never
+.messagebox: Never
+.DUMMY = pyimport "encrypt_qr"
+.encrypt_qr = pyimport "encrypt_qr"
+.log = pyimport "log"
+.uuid: Never
+
+
+.textwrap: Never
+
+.warnings: Never
+
+
+.resource_path: (relative_path: Obj) -> Never
+.print_test: (printer_name: Obj, num_qty_label: Float, label_size: {1}) -> NoneType
+.Print_Label: (my_cert_type: Obj, sub_cert_type: {1}, barcode: Obj, main_cert_type: Obj, system_name: Obj, chinese_name: Str, malay_name: Obj, english_name: Obj, nav_name: Obj, nav_grammage: Str, product_country: Obj, RSP: Obj, UOM1: Obj, UOM2: Never, unit_of_conversion1: Obj, unit_of_conversion2: Obj, product_database_category: Structural({.__le__ = (self: Never, Obj) -> Bool; .__ge__ = (self: Never, Obj) -> Bool}), manufacturer_code: Obj, calendar_date_string: Obj, num_qty_label: Float, printer_name: Obj, label_size: {1}, customer_group: Obj) -> NoneType
+e

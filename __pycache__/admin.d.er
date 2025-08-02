@@ -1,0 +1,60 @@
+##[pylyzer] failed c:\testing\tkinter_label_software\admin.py 1754139423 2280
+
+.DUMMY: Never
+.___v_desugar_1: Never
+.Canvas: Never
+.Frame: Never
+.BOTH: Never
+.___v_desugar_2: Never
+.messagebox: Never
+.___v_desugar_3: Never
+.ttk: Never
+.___v_desugar_4: Never
+.filedialog: Never
+.os: Never
+
+.csv: Never
+
+.label_handling = pyimport "label_handling"
+
+.___v_desugar_5: Never
+.Image: Never
+.ImageTk: Never
+.time: Never
+
+.serial: Never
+
+.___v_desugar_6: Never
+.SerialException: Never
+.re: Never
+
+.threading: Never
+
+.___v_desugar_7: Never
+.DateEntry: Never
+.___v_desugar_8: Never
+.datetime: Never
+.win32print: Never
+
+.___v_desugar_9: Never
+.Decimal: Never
+.___v_desugar_10 = pyimport "barcode_generator"
+.barcode_generator = pyimport "barcode_generator"
+.barcode_generator: (RSP: Obj, barcode: Str) -> Str
+.Export_Csv: Never
+
+.mysql: Never
+
+.___v_desugar_11 = pyimport "product_listing_query"
+.product_listing_query = pyimport "product_listing_query"
+.sql_queries: Never
+.DUMMY = pyimport "encrypt_qr"
+.encrypt_qr = pyimport "encrypt_qr"
+.decrypt_qr = pyimport "decrypt_qr"
+.___v_desugar_12: Never
+.datetime: Never
+.Type_admin: ClassType
+.Type_admin.__call__: () -> admin.Type_admin
+.Type_admin.Login_Window: (self: admin.Type_admin) -> NoneType
+
+

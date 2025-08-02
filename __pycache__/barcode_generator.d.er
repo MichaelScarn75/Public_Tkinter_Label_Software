@@ -1,0 +1,5 @@
+##[pylyzer] failed c:\testing\tkinter_label_software\barcode_generator.py 1754137689 1118
+
+.___v_desugar_1: Never
+.Decimal: Never
+.barcode_generator: (RSP: Obj, barcode: Str) -> Str

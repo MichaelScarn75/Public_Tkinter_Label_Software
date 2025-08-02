@@ -1,0 +1,7 @@
+##[pylyzer] failed c:\testing\tkinter_label_software\log.py 1754139805 5084
+
+.mysql: Never
+
+.___v_desugar_1: Never
+.datetime: Never
+.log_function: (my_cert_type: Obj, cert_type_var: Obj, barcode: Obj, main_cert_type: Obj, system_name: Obj, chinese_name: Obj, malay_name: Obj, english_name: Obj, nav_name: Obj, nav_grammage: Obj, product_country: Obj, RSP: Obj, UOM1: Obj, UOM2: Obj, unit_of_conversion1: Obj, unit_of_conversion2: Obj, product_database_category: Obj, manufacturer_code: Obj, calendar_date_string: Obj, num_qty_label: Obj, printer_name: Obj, label_size: Obj, mac_address: Obj) -> NoneType

@@ -1,0 +1,87 @@
+
+2023-05-14 16:48:50
+invalid command name ".!toplevel6.!label10"
+
+2023-05-14 16:51:00
+invalid command name ".!toplevel12.!label10"
+
+2023-05-14 16:53:41
+'NoneType' object does not support item assignment
+
+2023-05-14 16:55:23
+invalid command name ".!toplevel23.!label10"
+
+2023-05-14 16:59:45
+invalid command name ".!toplevel33.!label10"
+
+2023-05-14 17:05:26
+invalid command name ".!toplevel44.!label10"
+
+2023-05-17 22:26:26
+could not convert string to float: ''
+
+2023-05-17 22:30:03
+could not convert string to float: ''
+
+2023-05-17 22:47:54
+[<class 'decimal.ConversionSyntax'>]
+
+2023-05-17 22:50:24
+could not convert string to float: ''
+
+2023-05-17 22:50:31
+could not convert string to float: ''
+
+2023-05-17 22:50:33
+[<class 'decimal.ConversionSyntax'>]
+
+2023-05-17 22:52:25
+[<class 'decimal.ConversionSyntax'>]
+
+2023-05-17 22:59:03
+[<class 'decimal.ConversionSyntax'>]
+
+2023-05-17 23:25:23
+could not convert string to float: ''
+
+2023-05-19 09:10:21
+could not convert string to float: ''
+
+2023-06-20 15:59:59
+could not convert string to float: ''
+
+2023-06-20 16:04:22
+could not convert string to float: ''
+
+2023-06-20 16:04:29
+invalid command name ".!toplevel7.!label10"
+
+2023-06-20 16:04:30
+invalid command name ".!toplevel7.!label10"
+
+2023-06-20 16:05:51
+invalid command name ".!toplevel5.!label10"
+
+2023-06-20 16:05:52
+invalid command name ".!toplevel5.!label10"
+
+2023-06-20 16:05:53
+invalid command name ".!toplevel5.!label10"
+
+2023-06-20 16:05:55
+main thread is not in main loop
+
+2023-06-20 16:11:50
+invalid command name ".!toplevel5.!label10"
+
+2023-06-20 16:11:51
+invalid command name ".!toplevel5.!label10"
+
+2023-06-20 16:11:52
+invalid command name ".!toplevel5.!label10"
+
+2023-06-20 16:46:50
+could not convert string to float: ''
+
+2023-06-20 16:47:35
+ClearCommError failed (PermissionError(13, 'Access is denied.', None, 5))
